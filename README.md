@@ -14,3 +14,5 @@
 - American Sign Language Tutorial
 - Media Player with American Sign Language Subtitle
 - Pattern Recognition of Alphabetic Gesture on screen
+
+[Check out the youtube video !!](https://youtu.be/Xizm56YwncY)
