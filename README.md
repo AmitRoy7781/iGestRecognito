@@ -3,8 +3,8 @@
 
 
 **Developed by:**
-- [Amit Roy](https://github.com/AmitRoy7781)
-- [Saif Mahmud](https://github.com/saif-mahmud)
+- [Amit Roy](https://amitroy7781.github.io)
+- [Saif Mahmud](https://saif-mahmud.github.io)
 - [Tauhid Tanjim](https://github.com/Tanjim13)
 
 **Features:**
