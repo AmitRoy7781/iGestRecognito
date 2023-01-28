@@ -16,3 +16,6 @@
 - Pattern Recognition of Alphabetic Gesture on screen
 
 [Check out the youtube video !!](https://youtu.be/Xizm56YwncY)
+
+
+This mobile application has been awarded as Champion at DUITS-ROBI National IT Fest, 2018 ([Results](https://www.facebook.com/events/246565332872634/?post_id=254072218788612&view=permalink)) and presented as a [poster](https://drive.google.com/file/d/1GZoKBmeiM-RHmjT7Iy-YgQ1SJGbBkPn4/view?usp=sharing) in International conference on Emerging technologies in data Mining and Information Security(IEMIS), 2018 in Kolkata, India.
